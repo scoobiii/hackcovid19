@@ -1,5 +1,5 @@
 # hackcovid19
-dataset para o projeto Mellieri Human Covid-19 Deteca
+Fase 1: dataset para o projeto Mellieri Human Covid-19 Deteca
 Objetivos: receber imagens de raiox e tomografia computadorizada e analises clinicas associadas por imagem e respectiva patologia clinica que podem ser:
 
  Imagens Toráxicas
@@ -17,4 +17,4 @@ Objetivos: receber imagens de raiox e tomografia computadorizada e analises clin
  Streptococcus
  Viral Pneumonia
 
- Outras Patologias
+Fase 2: Outras Patologias
