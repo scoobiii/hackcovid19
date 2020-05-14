@@ -18,3 +18,5 @@ Objetivos: receber imagens de raiox e tomografia computadorizada e analises clin
  Viral Pneumonia
 
 Fase 2: Outras Patologias
+
+Nota: Importante. O arquivo metadados.csv define o formato da analise clinica associada a imagem fornecida|upload
