@@ -19,4 +19,5 @@ Objetivos: receber imagens de raiox e tomografia computadorizada e analises clin
 
 Fase 2: Outras Patologias
 
-Nota: Importante. O arquivo metadados.csv define o formato da analise clinica associada a imagem fornecida|upload
+Nota Importante: O arquivo metadados.csv define o formato dos dados associados as imagens.
+Não são aceitas imagens sem análise clínica.
